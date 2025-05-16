@@ -361,3 +361,13 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# ignore temp dir
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+LuaPro5_5.sln
+!Plugins/UnLua/Source/ThirdParty/Lua/lua-5.4.3/**
+/Plugins/LuaWidgetBase
+/Build
