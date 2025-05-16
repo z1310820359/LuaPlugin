@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "LuaPro5_5",
+			"Path": "..\\Source\\LuaPro5_5.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "LuaPro5_5Editor",
+			"Path": "..\\Source\\LuaPro5_5Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
